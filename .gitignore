@@ -2,3 +2,6 @@
 .idea/
 02-CardInfoFinder/out/
 03-passwords/out/
+/04-portScanning/nbproject/
+/04-portScanning/build.xml
+/04-portScanning/manifest.mf
